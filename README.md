@@ -6,7 +6,7 @@ Predicción y monitoreo de la calidad del agua mediante modelos de machine learn
 
 ## 📁 Estructura del repositorio
 
-
+```bash
 proyeccion-calidad-agua-ml/
 ├── manuscript/                  # Manuscrito en LaTeX
 ├── data/
@@ -17,6 +17,7 @@ proyeccion-calidad-agua-ml/
 │   └── 02_generacion_train_test_walkforward.ipynb
 ├── requirements.txt             # Entorno Python
 └── README.md
+```
 
 ---
 
