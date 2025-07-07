@@ -1,4 +1,3 @@
-````markdown
 # Proyección de la calidad del agua mediante machine learning
 
 Predicción y monitoreo de la calidad del agua mediante modelos de machine learning aplicados a datos ambientales temporales.
@@ -7,7 +6,7 @@ Predicción y monitoreo de la calidad del agua mediante modelos de machine learn
 
 ## 📁 Estructura del repositorio
 
-```bash
+
 proyeccion-calidad-agua-ml/
 ├── manuscript/                  # Manuscrito en LaTeX
 ├── data/
@@ -18,7 +17,6 @@ proyeccion-calidad-agua-ml/
 │   └── 02_generacion_train_test_walkforward.ipynb
 ├── requirements.txt             # Entorno Python
 └── README.md
-````
 
 ---
 
@@ -54,9 +52,4 @@ Este proyecto se distribuye bajo la [Licencia Apache 2.0](LICENSE).
 
 Para más información, podés contactarte con el autor del proyecto a través de este repositorio.
 
-```
-
----
-
-¿Querés que además prepare un `Makefile`, un `environment.yml` para conda, o algo más automatizado?
 ```
