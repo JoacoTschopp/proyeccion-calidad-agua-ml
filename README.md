@@ -6,7 +6,7 @@ Predicción y monitoreo de la calidad del agua mediante modelos de machine learn
 
 ## 📁 Estructura del repositorio
 
-```bash
+```
 proyeccion-calidad-agua-ml/
 ├── manuscript/                  # Manuscrito en LaTeX
 ├── data/
